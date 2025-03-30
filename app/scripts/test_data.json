@@ -1,0 +1,20 @@
+[
+    {
+      "user_id": 1,
+      "ip_address": "192.168.1.1",
+      "login_frequency": 2,
+      "ip_change_count": 1,
+      "time_since_last_login": 86400,
+      "location_change": 0,
+      "device_change": 0
+    },
+    {
+      "user_id": 1,
+      "ip_address": "154.160.20.150",
+      "login_frequency": 10,
+      "ip_change_count": 5,
+      "time_since_last_login": 300,
+      "location_change": 1,
+      "device_change": 1
+    }
+  ]
