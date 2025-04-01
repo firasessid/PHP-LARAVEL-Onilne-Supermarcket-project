@@ -1,3 +1,4 @@
+[Rapport_PFE_Essid_Firas.pdf](https://github.com/user-attachments/files/19543080/Rapport_PFE_Essid_Firas.pdf)
 Supernet.Shop
 Supernet.Shop is a cutting-edge, full-featured online platform designed specifically for supermarkets and grocery stores, enabling them to easily manage and sell a variety of products including fruits, vegetables, meats, dairy, and more. The platform provides an intuitive, user-friendly experience for both administrators and customers, making it the go-to solution for modern e-commerce in the supermarket industry.
 
